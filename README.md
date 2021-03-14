@@ -1,5 +1,5 @@
 # Climate-Change-Educator
-## The Links Below are Climate Change Educator Files
+## The Links Below will lead you to Climate Change Educator Files
 
 Page 1
 - [Climate Change Educator Page 1](https://github.com/zaidmukaddam/Climate_Change_Educator_Page1)
